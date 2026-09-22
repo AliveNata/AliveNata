@@ -1,6 +1,6 @@
 ### Hi, I'm Alief Akbar
 
-Data Engineer building pipelines that turn messy raw data into something people can actually trust and query. Currently working on a CDC based medallion architecture on GCP at Rata.id.
+Specialized in building scalable data pipelines, automating ETL processes, data modeling, and BI reporting that drive real business impact, from raw ingestion and orchestration to the BI layer regional teams open every morning. My work sits where reliability meets clarity: pipelines that don't page you at 3am, and reporting leaders trust enough to act on.
 
 I didn't start in data. A decade of unrelated jobs (hospitality, customer service, IT support) turned into a data engineering title. Full story: [alivenata.github.io/#journey](https://alivenata.github.io/#journey)
 
